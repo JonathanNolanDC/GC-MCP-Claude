@@ -8,8 +8,8 @@
     "name": "Lucas Woodward",
     "url": "https://github.com/SketchingDev"
   },
-  "documentation": "https://github.com/MakingChatbots/genesys-cloud-mcp-server#readme",
-  "support": "https://github.com/MakingChatbots/genesys-cloud-mcp-server/issues",
+  "documentation": "https://github.com/JonathanNolanDC/GC-MCP-Claude#readme",
+  "support": "https://github.com/JonathanNolanDC/GC-MCP-Claude/issues",
   "server": {
     "type": "node",
     "entry_point": "dist/index.js",
@@ -97,6 +97,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MakingChatbots/genesys-cloud-mcp-server.git"
+    "url": "git+https://github.com/JonathanNolanDC/GC-MCP-Claude.git"
   }
 }
