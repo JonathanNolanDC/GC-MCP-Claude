@@ -1,5 +1,5 @@
 {
-  "name": "@makingchatbots/genesys-cloud-mcp-server",
+  "name": "GC-MCP-Claude",
   "version": "0.0.15",
   "description": "A Model Context Protocol (MCP) server exposing Genesys Cloud tools for LLMs, including sentiment analysis, conversation search, topic detection and more.",
   "bin": "./dist/cli.js",
@@ -7,14 +7,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MakingChatbots/genesys-cloud-mcp-server.git"
+    "url": "https://github.com/JonathanNolanDC/GC-MCP-Claude.git"
   },
   "bugs": {
-    "url": "https://github.com/MakingChatbots/genesys-cloud-mcp-server/issues"
+    "url": "https://github.com/JonathanNolanDC/GC-MCP-Claude/issues"
   },
-  "homepage": "https://makingchatbots.com",
+  "homepage": "https://getdunamis.com",
   "author": {
-    "name": "Lucas Woodward"
+    "name": "Jonathan Nolan"
   },
   "scripts": {
     "dev": "tsx watch src/index.ts",
